@@ -1,3 +1,13 @@
+# Copy of Dat 2015 beta
+
+**DO NOT USE THIS CODE!** _It's for reference only._
+
+This repository contains a copy of the code from the dat 2015 beta, which has been EOL'ed.  It's primarily for the dat-tables team to use as a reference.  It relies on the [dat-core module](https://github.com/maxogden/dat-core) which has largely been replaced by [hypercore](https://github.com/mafintosh/hypercore)
+
+The current dat code is at [maxogden/dat](https://github.com/maxogden/dat)
+
+# Original README: 
+
 # Dat: version, fork, and sync data
 
 Welcome to Dat!
