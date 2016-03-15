@@ -6,6 +6,16 @@ This repository contains a copy of the code from the dat 2015 beta, which has be
 
 The current dat code is at [maxogden/dat](https://github.com/maxogden/dat)
 
+## Installing & Running the 2015 beta code
+
+If you do, for some reason, want to install and run this code, you can clone this repository and then run `npm link`. This will install the code as a package called `datbeta`. You can then try out the tutorial steps from https://github.com/flyingzumwalt/get-dat-2015-beta/tree/gh-pages/markdown
+
+```
+git clone https://github.com/flyingzumwalt/dat-2015-beta.git
+cd dat-2015-beta
+npm link
+```
+
 # Original README: 
 
 # Dat: version, fork, and sync data

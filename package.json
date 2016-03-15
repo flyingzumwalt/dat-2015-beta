@@ -1,5 +1,5 @@
 {
-  "name": "dat",
+  "name": "datbeta",
   "version": "7.1.2",
   "description": "versioning and sync tool for data sets",
   "keywords": [
@@ -10,7 +10,7 @@
     "versioning"
   ],
   "bin": {
-    "dat": "cli.js"
+    "datbeta": "cli.js"
   },
   "scripts": {
     "install-precommit": "echo ./node_modules/.bin/standard > .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/maxogden/dat.git"
+    "url": "git://github.com/flyingzumwalt/dat-2015-beta"
   },
   "author": "max ogden",
   "license": "BSD-3-Clause",
@@ -61,7 +61,7 @@
     "transport-stream": "^1.4.2"
   },
   "bugs": {
-    "url": "https://github.com/maxogden/dat/issues"
+    "url": "https://github.com/flyingzumwalt/dat-2015-beta"
   },
   "devDependencies": {
     "mkdirp": "^0.5.0",
@@ -74,7 +74,7 @@
     "tape": "^4.0.0",
     "tape-spawn": "^1.3.4"
   },
-  "homepage": "https://github.com/maxogden/dat",
+  "homepage": "https://github.com/flyingzumwalt/dat-2015-beta",
   "directories": {
     "test": "tests"
   }
