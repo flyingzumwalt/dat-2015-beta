@@ -8,7 +8,7 @@ The current dat code is at [maxogden/dat](https://github.com/maxogden/dat)
 
 ## Installing & Running the 2015 beta code
 
-If you do, for some reason, want to install and run this code, you can clone this repository and then run `npm link`. This will install the code as a package called `datbeta`. You can then try out the tutorial steps from https://github.com/flyingzumwalt/get-dat-2015-beta/tree/gh-pages/markdown
+If you do, for some reason, want to install and run this code, you can clone this repository and then run `npm link`. This will install the code as a package called `datbeta`. You can then try out the tutorial steps from https://github.com/flyingzumwalt/get-dat-2015-beta/tree/gh-pages/markdown. Remember to call `datbeta` wherever the tutorials tell you to call `dat`. For example, run `datbeta init` instead of `dat init`
 
 ```
 git clone https://github.com/flyingzumwalt/dat-2015-beta.git
